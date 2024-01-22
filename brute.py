@@ -44,7 +44,7 @@ def mr_wibu():
 
 def logo_taekyung():
     try:
-        os.system("xdg-open https://github.com/DarkCreed99/CykaBlyat")
+        os.system("xdg-open https://github.com/DarkCreed99/SpamBrute")
         time.sleep(3)
         os.system("clear")
         print(f"""
@@ -57,10 +57,10 @@ def logo_taekyung():
 \033[33;1m   \/_____/  \/_/  \/_/  \/_____/ \033[36;1m           \033[31;1m   \/_/   \/_/  \/_/\/_/ {putih}[\033[33;1mVersi \033[36;m0.1{putih}]
 
 		\033[33;1m╔════════════════════════════════════════════════╗
-		\033[33;1m║           \033[36;1m [•] Github : DarxCreed \033[33;1m             ║
+		\033[33;1m║             \033[36;1m [•] Github : DarxCreed \033[33;1m           ║
 		\033[33;1m╚════════════════════════════════════════════════╝
 			   \033[36;1m╔═══════════════════════════╗
-			   \033[36;1m║   \033[33;1m GUNAKAN DENGAN BIJAK\033[36;1m   ║
+			   \033[36;1m║  \033[33;1m GUNAKAN DENGAN BIJAK {R}!\033[36;1m  ║
 			   \033[36;1m╚═══════════════════════════╝
 """)
     except requests.exceptions.ConnectionError:

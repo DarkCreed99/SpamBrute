@@ -6,7 +6,7 @@ Just entertaintment,jangan di salah gunakan !!!
 pkg update && pkg upgrade
 pkg inst python
 pkg inst git
-git clone https://github.com/DarkCreed99/CykaBlyat
+git clone https://github.com/DarkCreed99/SpamBrute
 cd SpamBrute
 python brute.py
 ```
